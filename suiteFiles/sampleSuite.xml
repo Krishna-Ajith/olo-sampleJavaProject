@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="sampleSuite" parallel="false">
+	<test name="testNG">
+		<classes>
+			<class name="com.tests.TestNgSampleTest" ></class>
+		</classes>
+	</test>
+	
+	<test name="KeywordDriven">
+		<classes>
+		    <class name="com.keywordFactory.LoginFactoryTest" ></class>
+		</classes>
+	</test>
+	
+	<test name="webdriver">
+		<classes>
+		    <class name="com.tests.WebDriverSampleTest" ></class>
+		    <class name="com.tests.WebDriverPageObjectModelTest" ></class>
+		</classes>
+	</test>
+	
+</suite>
