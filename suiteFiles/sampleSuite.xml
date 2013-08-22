@@ -12,6 +12,12 @@
 		</classes>
 	</test>
 	
+	<test name="DataDriven">
+		<classes>
+		    <class name="com.keywordFactory.LoginFactoryTestWithData" ></class>
+		</classes>
+	</test>
+	
 	<test name="webdriver">
 		<classes>
 		    <class name="com.tests.WebDriverSampleTest" ></class>
