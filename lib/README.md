@@ -1,8 +1,8 @@
 libraries included to classpath
 ===============================
 
-* olo-0.12.0.jar (https://github.com/pavanraju/olo/tree/master/olojar)
-* selenium-server-standalone-2.34.0.jar (http://code.google.com/p/selenium/downloads/list)
+* olo-0.16.0.jar (https://github.com/pavanraju/olo/tree/master/olojar)
+* selenium-server-standalone-2.39.0.jar (http://code.google.com/p/selenium/downloads/list)
 * log4j-1.2.17.jar (http://logging.apache.org/log4j/1.2/download.html)
 * mailapi.jar (javamail-1.4.7) (http://www.oracle.com/technetwork/java/javamail/index-138643.html)
 * smtp.jar (javamail-1.4.7) (http://www.oracle.com/technetwork/java/javamail/index-138643.html)

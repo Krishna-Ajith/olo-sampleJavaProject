@@ -8,5 +8,4 @@ drivers/win/IEDriverServer.exe
 drivers/win/IEDriverServer_Win32_2.35.2.zip
 drivers/win/chromedriver.exe
 drivers/win/chromedriver_win32_2.2.zip
-
-
+Application.log

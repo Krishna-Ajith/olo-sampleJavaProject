@@ -20,8 +20,13 @@
 	
 	<test name="webdriver">
 		<classes>
-		    <class name="com.tests.WebDriverSampleTest" ></class>
 		    <class name="com.tests.WebDriverPageObjectModelTest" ></class>
+		</classes>
+	</test>
+	
+	<test name="verification">
+		<classes>
+		    <class name="com.tests.VerificationTest" ></class>
 		</classes>
 	</test>
 	
