@@ -9,7 +9,7 @@
 	<classpathentry kind="lib" path="lib/poi-3.9/poi-ooxml-3.9-20121203.jar"/>
 	<classpathentry kind="lib" path="lib/poi-3.9/poi-ooxml-schemas-3.9-20121203.jar"/>
 	<classpathentry kind="lib" path="lib/poi-3.9/ooxml-lib/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="lib/poi-3.9/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.9/ohgoxml-lib/stax-api-1.0.1.jar"/>
 	<classpathentry kind="lib" path="lib/poi-3.9/ooxml-lib/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.35.0.jar"/>
 	<classpathentry kind="lib" path="lib/olo-0.16.0.jar"/>
